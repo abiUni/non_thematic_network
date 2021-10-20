@@ -610,13 +610,13 @@ var styles = [ {
   "style" : [ {
     "selector" : "node",
     "css" : {
-      "color" : "rgb(247,252,253)",
+      "color" : "rgb(56,108,176)",
       "border-color" : "rgb(204,204,204)",
       "text-opacity" : 1.0,
       "shape" : "roundrectangle",
       "border-opacity" : 1.0,
-      "width" : 10.0,
-      "height" : 10.0,
+      "width" : 20.0,
+      "height" : 20.0,
       "border-width" : 0.0,
       "text-valign" : "center",
       "text-halign" : "center",
